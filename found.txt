@@ -1,0 +1,9 @@
+./cats
+./foo.txt
+./foo.txt
+./foo.txt
+./cats.txt
+./hello.txt
+./hello.txt
+./hello.txt
+./hello.txt
